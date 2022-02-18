@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\source\\repos\\myVar Program\\myVar Program.csproj",
+      "projectUniqueName": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\myVar-1-29\\myVar Program\\myVar Program.csproj",
       "projectName": "myVar Program",
-      "projectPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\myVar Program\\myVar Program.csproj",
+      "projectPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\myVar-1-29\\myVar Program\\myVar Program.csproj",
       "packagesPath": "C:\\Users\\Fabricio Diaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fabricio Diaz\\source\\repos\\myVar Program\\obj\\",
+      "outputPath": "C:\\Users\\Fabricio Diaz\\Documents\\GitHub\\myVar-1-29\\myVar Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
